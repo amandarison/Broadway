@@ -4,7 +4,7 @@ body {
 }
 
 #home {
-  background-image: url("resources/media/the-flatiron-building.png");
+  background-image: url("file://resources/media/the-flatiron-building.png");
 }
 
 h1.title {
