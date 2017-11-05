@@ -14,7 +14,7 @@ h1.title {
   color: white;
 }
 
-div nav {
+a {
   font-size: 18px;
   color: white;
 }
@@ -41,7 +41,8 @@ p {
   color: black;
 }
 
-div.footer {
+div.footer
+div a {
   background-color: dimgray;
   color: white;
   font-size: 11px;
