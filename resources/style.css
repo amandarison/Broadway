@@ -14,7 +14,7 @@ h1.title {
   color: white;
 }
 
-nav.links {
+nav.links a {
   font-size: 18px;
   color: white;
 }
