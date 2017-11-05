@@ -41,6 +41,10 @@ p {
   color: black;
 }
 
+p nav {
+  font-size: 23px;
+}
+
 div.footer {
   background-color: dimgray;
   color: white;
