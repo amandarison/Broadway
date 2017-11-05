@@ -8,7 +8,11 @@ body {
   color: white;
 }
 
-a {
+#home,
+#about,
+#work,
+#team,
+#contact {
   color: white;
 }
 
@@ -43,7 +47,7 @@ p {
 }
 
 div.footer {
-  background-color: dimgray
+  background-color: dimgray;
   color: white;
   font-size: 11px;
 }
