@@ -14,7 +14,7 @@ h1.title {
   color: white;
 }
 
-a {
+nav.links {
   font-size: 18px;
   color: white;
 }
@@ -41,8 +41,7 @@ p {
   color: black;
 }
 
-div.footer
-div a {
+div.footer {
   background-color: dimgray;
   color: white;
   font-size: 11px;
