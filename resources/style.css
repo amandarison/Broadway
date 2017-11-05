@@ -51,3 +51,7 @@ div.footer {
   color: white;
   font-size: 11px;
 }
+
+div p {
+  color: white;
+}
