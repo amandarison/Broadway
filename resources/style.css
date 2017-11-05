@@ -8,19 +8,15 @@ body {
   color: white;
 }
 
-div nav {
-  color: white;
-}
-
 h1.title {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
-nav {
+div nav {
   font-size: 18px;
-  color:white;
+  color: white;
 }
 
 h2 {
@@ -40,7 +36,6 @@ h4.NYbanner {
 
 p {
   font-size: 14px;
-  color: black;
 }
 
 div.footer {
