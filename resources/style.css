@@ -22,11 +22,13 @@ div nav {
 h2 {
   font-size: 32px;
   font-weight: bold;
+  color: black;
 }
 
 h4 {
   font-size: 23px;
   font-weight: bold;
+  color: black;
 }
 
 h4.NYbanner {
@@ -36,6 +38,7 @@ h4.NYbanner {
 
 p {
   font-size: 14px;
+  color: black;
 }
 
 div.footer {
