@@ -8,11 +8,7 @@ body {
   color: white;
 }
 
-#home,
-#about,
-#work,
-#team,
-#contact {
+div nav {
   color: white;
 }
 
